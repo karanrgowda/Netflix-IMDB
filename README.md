@@ -1,6 +1,8 @@
 # Netflix-IMDB
 Commercial Website Under Development
 
+http://ec2-18-223-120-171.us-east-2.compute.amazonaws.com:8080/Fablix
+
 ## Problem
 Build functionalities such as browsing movies by category, searching movies by condition, adding movies to the shopping cart, etc. 
 
