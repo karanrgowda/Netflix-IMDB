@@ -3,7 +3,7 @@ Commercial Website Under Development
 
 http://ec2-18-223-120-171.us-east-2.compute.amazonaws.com:8080/Fablix
 
-Front-End : CSS,HTML,Javascript,React(Still not complete).
+Front-End : CSS,HTML,Javascript,React.
 Backend : Java,JDBC,MySql.
 Further-work:(Spring MVC).
 
